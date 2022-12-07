@@ -1,7 +1,7 @@
 {
   "domain": "comandodigital.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff6a06",
+  "primary_color": "#1d61ac",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
