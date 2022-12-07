@@ -1,9 +1,9 @@
 {
   "domain": "comandodigital.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#1d61ac",
   "theme": {
-    "bootswatch": "cerulean",
+    "bootswatch": "journal",
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
@@ -18,9 +18,9 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#ff6a06",
   "icon": "/img/icon.png",
   "store_id": 51339,
-  "description": "comandodigital",
+  "description": "sfsdfsdfsd",
   "large_icon": "/img/large-icon.png"
 }
