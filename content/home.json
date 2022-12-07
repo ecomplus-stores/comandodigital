@@ -53,7 +53,12 @@
       "page": 1
     },
     {
-      "type": "banners-grid"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/0023.jpg"
+        }
+      ]
     },
     {
       "type": "offers-timer",
