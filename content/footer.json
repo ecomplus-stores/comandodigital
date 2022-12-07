@@ -27,13 +27,15 @@
     }
   ],
   "payment_methods": {
-    "pix": true,
     "visa": true,
-    "mastercard": true,
+    "boleto": true,
+    "aura": true,
     "elo": true,
-    "amex": true,
     "hipercard": true,
-    "boleto": true
+    "mastercard": true,
+    "diners": true,
+    "pix": true,
+    "amex": true
   },
   "credits": ""
 }
