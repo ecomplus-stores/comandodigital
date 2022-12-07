@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#1d61ac",
   "theme": {
-    "bootswatch": "journal",
-    "custom": "clean-white"
+    "bootswatch": "_",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/comandodigital",
