@@ -49,23 +49,6 @@
       "page": 1
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/0023.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/0022.png"
-        }
-      ]
-    },
-    {
       "type": "page-title",
       "title": "Loja demo da E-Com Plus",
       "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
