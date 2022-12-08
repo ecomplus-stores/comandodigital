@@ -47,10 +47,33 @@
       "type": "page-title"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/0023.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/0022.png"
+        }
+      ]
+    },
+    {
+      "type": "page-title"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "page-title"
     },
     {
       "type": "banners-grid",
@@ -64,16 +87,16 @@
       ]
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-12-07T23:05:06.187Z",
-      "end": "2022-12-07T23:05:06.251Z"
+      "type": "page-title"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "page-title"
     },
     {
       "type": "collection-shelf",
