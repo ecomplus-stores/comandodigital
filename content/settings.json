@@ -15,12 +15,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/favicon-16x16.ico",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#1d61ac",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logo.png",
   "store_id": 51339,
   "description": "sfsdfsdfsd",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/logo.png"
 }
