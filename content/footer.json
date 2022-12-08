@@ -22,8 +22,10 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "src": "/img/uploads/selo_loja_protegida.png"
+    },
+    {
+      "src": "/img/uploads/medalha_prata_muitoboa.png"
     }
   ],
   "payment_methods": {
@@ -35,7 +37,8 @@
     "mastercard": true,
     "diners": true,
     "pix": true,
-    "amex": true
+    "amex": false,
+    "itau": true
   },
   "credits": ""
 }
