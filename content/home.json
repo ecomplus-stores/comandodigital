@@ -34,6 +34,11 @@
       "enabled": false
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
+    },
+    {
       "type": "page-title",
       "title": "Loja demo da E-Com Plus",
       "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
@@ -91,11 +96,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "sales"
     }
   ]
 }
