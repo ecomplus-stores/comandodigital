@@ -124,6 +124,10 @@
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/tcl-7-banner-preto.png"
     }
   ]
 }
