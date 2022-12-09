@@ -9,8 +9,8 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/comandodigital",
   "logo": "/img/uploads/oficial_comando_digital.webp",
-  "name": "Comando Digital",
-  "short_name": "Comando Digital",
+  "name": "Comando Digital - Seu Shopping Virtual!",
+  "short_name": "COMANDO DIGITAL",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#1d61ac",
   "icon": "/img/uploads/logo.png",
   "store_id": 51339,
-  "description": "sfsdfsdfsd",
+  "description": "Encontre aqui o que você precisa! Eletrodomésticos, Cuidado Pessoal, Som e Vídeo, Informática, Roupas, Brinquedos, Peças para seu veículo e muito mais. Vem!",
   "large_icon": "/img/uploads/logo.png"
 }
