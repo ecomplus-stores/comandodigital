@@ -140,9 +140,11 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "headless": true,
+      "sort": "sales"
     },
     {
       "type": "responsive-banner",
