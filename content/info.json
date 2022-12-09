@@ -2,21 +2,21 @@
   "shipping": {
     "show": true,
     "text": "para todo o Brasil",
-    "title": "ENTREGA EXPRESSA"
+    "title": "Entrega Expressa"
   },
   "installments": {
     "show": true,
     "text": "em até 10x sem juros",
-    "title": "PARCELAMENTO"
+    "title": "Parcelamento"
   },
   "exchange": {
     "show": true,
-    "text": "ambiente protegido",
-    "title": "COMPRA SEGURA"
+    "text": "Compra Segura",
+    "title": ""
   },
   "promo": {
     "show": true,
     "text": "à vista no PIX",
-    "title": "17% DE DESCONTO"
+    "title": "17% de Desconto"
   }
 }
