@@ -53,12 +53,8 @@
       "page": 1
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-dolce-aroma-mondial.jpg"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/1658237322_lenoxx.webp"
     },
     {
       "type": "page-title",
@@ -71,6 +67,24 @@
       "limit": 12,
       "page": 1,
       "headless": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/0023.jpg"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/0035.png"
+        },
+        {
+          "img": "/img/uploads/0037.png"
+        },
+        {
+          "img": "/img/uploads/0038.jpg"
+        }
+      ]
     },
     {
       "type": "banners-grid",
@@ -120,28 +134,6 @@
       "limit": 12,
       "page": 1,
       "headless": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/0023.jpg"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/0035.png"
-        },
-        {
-          "img": "/img/uploads/0037.png"
-        },
-        {
-          "img": "/img/uploads/0038.jpg"
-        }
-      ]
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }
