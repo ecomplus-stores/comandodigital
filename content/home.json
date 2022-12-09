@@ -134,6 +134,19 @@
           "img": "/img/uploads/banner-oster-2.jpg"
         }
       ]
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/1658234213_banner_g_gris_desk.webp"
     }
   ]
 }
