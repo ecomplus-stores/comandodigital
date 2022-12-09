@@ -87,17 +87,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-philips-walita-ri2113.jpg"
-        },
-        {
-          "img": "/img/uploads/banner-oster-2.jpg"
-        }
-      ]
-    },
-    {
       "type": "page-title",
       "title": "Loja demo da E-Com Plus",
       "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
@@ -134,6 +123,17 @@
       "limit": 12,
       "page": 1,
       "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-philips-walita-ri2113.jpg"
+        },
+        {
+          "img": "/img/uploads/banner-oster-2.jpg"
+        }
+      ]
     }
   ]
 }
