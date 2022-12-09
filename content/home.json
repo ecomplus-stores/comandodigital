@@ -122,16 +122,26 @@
       "headless": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/0023.jpg"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/0035.png"
+        },
+        {
+          "img": "/img/uploads/0037.png"
+        },
+        {
+          "img": "/img/uploads/0038.jpg"
+        }
+      ]
+    },
+    {
       "type": "blog",
       "enabled": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/tcl-7-banner-preto.png"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/307907-img-top.jpg"
     }
   ]
 }
