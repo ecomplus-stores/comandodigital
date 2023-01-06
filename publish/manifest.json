@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f53f35b0ce151500daf2dbb8e4018dd1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.8a6ac9fd64ce46b8d58b8de72ed77286.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.2a4ead89f2153c069fd2e3af55e85c27.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.706dd870a61f9847b8a7da7b6ded75ac.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.e80e933b3b4c4dd5c729395f3cff9e08.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Comando Digital - Seu Shopping Virtual!",
+  "short_name": "COMANDO DIGITAL",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Encontre aqui o que você precisa! Eletrodomésticos, Cuidado Pessoal, Som e Vídeo, Informática, Roupas, Brinquedos, Peças para seu veículo e muito mais. Vem!",
+  "background_color": "#ffffff",
+  "theme_color": "#1d61ac"
+}
